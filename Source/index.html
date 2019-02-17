@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+ <html>
+ <head>
+  <meta charset="utf-8">
+  <title>Affichage des résultats Relais et Chateaux</title>
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+  <div class="container">    
+    <div class="table-responsive">
+      <h1 class="display-4">Lecture et parsing du fichier result.json</h1>
+      <button class="btn btn-success btn-lg" id="lecture">Lancer la lecture</button>
+      <p><br></p>
+      <table class="table table-bordered table-striped table-hover" id="result_table">
+        <thead>
+        <tr>
+          <th>N°</th>
+          <th>Nom de l'hôtel</th>
+          <th>Nom du restaurant</th>
+          <th>Code postal</th>
+          <th>Chef</th>
+          <th>Prix</th>
+          <th>URL</th>
+        </tr>
+        </thead>       
+      </table>
+    </div>  
+  </div>
+</body>
+</html>
+
+    <script> // Extraction      
+    // function sortByPrice(a,b){
+    //   return a.price > b.price ? 1: -1;
+    // };
+    $(document).ready(function() {
+     $('#lecture').on('click', function(){
+      $.getJSON("hotelsv5.json", function(result){
+        //result = $(result).sort(sortByPrice);
+        var items = [];
+        //var relais_data = ''; 
+        $.each(result, function(key, val){
+          items.push("<tr>");
+          items.push("<td id = ''"+key+"''>"+(key+1)+"</td>");
+          items.push("<td id = ''"+key+"''>"+val.name+"</td>");
+          items.push("<td id = ''"+key+"''>"+val.rest+"</td>");
+          items.push("<td id = ''"+key+"''>"+val.city+"</td>");
+          items.push("<td id = ''"+key+"''>"+val.chef+"</td>");
+          items.push("<td id = ''"+key+"''>"+val.price+"</td>");
+          items.push("<td id = ''"+key+"''>"+val.url+"</td>");
+          items.push("<td id = ''"+key+"''>"+val.desc+"</td>");
+          items.push("<td id = ''"+key+"''>"+val.citation+"</td>");
+          items.push("</tr>");
+          // relais_data += '<tr>';
+          // relais_data += '<td>' + val.hotelName + '</td>';
+          // relais_data += '<td>' + val.restaurantName + '</td>';
+          // relais_data += '<td>' + val.postalCode + '</td>';
+          // relais_data += '<td>' + val.chef + '</td>';
+          // relais_data += '<td>' + val.price + '</td>';
+          // relais_data += '</tr>';
+        });
+        $("<tbody/>", {html:items.join("")}).appendTo("table");
+        // $("result_table").append(relais_data);
+         // $("div").append('Nom du restaurant : ' + val.restaurantName + '<br>');
+         // $("div").append('Code postal : ' + val.postalCode + '<br>');
+         // $("div").append('Chef : ' + val.chef + '<br>');
+         // $("div").append('Prix : ' + val.price + '<br>'+ '<br>'+ '<br>'+ '<br>');
+       });
+    });
+   });
+ </script>

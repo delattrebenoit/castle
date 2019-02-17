@@ -1,0 +1,162 @@
+[  
+    {  
+       "name":"Baumanière Hôtel & Spa",
+       "url":"https://www.relaischateaux.com/fr/france/baumaniere-hotel-spa-les-baux-de-provence",
+       "price":"225,00",
+       "city":"Les Baux-de-Provence",
+       "citation":"“L'art de vivre en Provence”",
+       "desc":"Issu de la fusion de La Cabro d’Or et de l’Oustau de Baumanière, Baumanière incarne l’art de vivre en Méditerranée en un lieu magique fréquenté par les plus grandes personnalités du monde culturel et politique, domaine fondé par Raymond Thuilier \"monument historique \" de la haute gastronomie selon Gault et Millau. Jean-André Charial succède à son grand-père en 1969  et dirigera les cuisines avec brio jusqu'à aujourd'hui. Ayant passé la main cette année, ce chef respecté est devenu désormais maître du domaine. Baumanière demeure un lieu unique ouvert sur l’exceptionnelle nature minérale des Baux-de-Provence et composé de cinq bâtisses : l’Oustau, centre historique, la Guigou, mas provençal, le Manoir du XVIIIe siècle et enfin Carita et Flora, deux écrins champêtres. C’est aussi deux restaurants gastronomiques, l’Oustau de Baumanière – une institution où l’on apprécie la cuisine épurée, subtile et simple du chef – et La Cabro d’Or. Une  table d’hôte pour déjeuner, un bar et de nombreuses terrasses les complètent. Le domaine dispose en outre d’un spa, de trois piscines extérieures et d’un court de tennis.",
+       "rest":[  
+          {  
+             "name":"L'Oustau de Baumanière",
+             "michelinurl":"https://restaurant.michelin.fr/28tn79w/loustau-de-baumaniere-les-baux-de-provence",
+             "star":2
+          },
+          {  
+             "name":"Autres restaurants",
+             "michelinurl":null,
+             "star":null
+          }
+       ]
+    },
+    {  
+       "name":"Jiva Hill Resort",
+       "url":"https://www.relaischateaux.com/fr/france/jivahill-ain-crozet",
+       "price":"290,00",
+       "city":"Crozet",
+       "citation":"“Aux portes de Genève un domaine entre Jura et mont Blanc”",
+       "desc":"Au coeur d'un magnifique parc de 40 hectares, les bâtiments à l'architecture contemporaine déroulent leurs lignes pures. À travers les larges baies vitrées des chambres, l'oeil embrasse un somptueux paysage de montagnes, qui rivalise avec la vue sur le mont Blanc offerte depuis la terrasse panoramique du restaurant. Entre cuisine française teintée de modernité et rituels de bien-être prodigués au Sangoma Spa, le corps et l’esprit s’apaisent et se détendent. À l’extérieur, les greens synthétiques et les 18 départs du parcours de 9 trous, alliant innovation et respect du terrain, séduiront les golfeurs. Enfin, un lac artificiel est spécialement dédié aux sports nautiques.\n\n(Note : Fermeture pour travaux du 15 octobre 2018 au 1er mai 2019)",
+       "rest":[  
+          {  
+             "name":"Restaurant Shamwari",
+             "michelinurl":null,
+             "star":null
+          },
+          {  
+             "name":"Le Jardin",
+             "michelinurl":"https://restaurant.michelin.fr/28u6ql7/le-jardin-des-remparts-beaune",
+             "star":1
+          }
+       ]
+    },
+    {  
+       "name":"La Bonne Étape",
+       "url":"https://www.relaischateaux.com/fr/france/bonneetape-alpes-de-haute-provence-chateau-arnoux",
+       "price":"158,00",
+       "city":"Château-Arnoux",
+       "citation":"“Le soleil change les couleurs en parfums”",
+       "desc":"Depuis des générations, la famille Gleize prend soin de ce relais de poste du xviie siècle. Les balcons, les jardins dallés, les petits volets vert amande sont l’oeuvre de Jany, le dernier de la lignée. Côté cuisine, il réinvente la tradition des recettes provençales de Gabrielle, la grand-mère – un accent, des racines. Le sucré est l’objet de soins minutieux, en hommage à Pierre, le père, confiseur. Vous goûterez la délicieuse glace au miel de lavande servie dans sa ruche. Un potager bio, jardin à l'anglaise mêlant les fleurs, les fruits et les légumes, donne le meilleur de la terre. Mieux qu’une « bonne étape » : un voyage de tous les sens, une escale naturelle vers le bonheur.",
+       "rest":[  
+          {  
+             "name":"La Bonne Étape",
+             "michelinurl":"https://restaurant.michelin.fr/2bp5jf6/la-bonne-etape-chateau-arnoux",
+             "star":1
+          },
+          {  
+             "name":"Au Goût du Jour",
+             "michelinurl":"https://restaurant.michelin.fr/2961fqn/au-gout-du-jour-chateau-arnoux",
+             "star":0
+          }
+       ]
+    },
+    {  
+       "name":"La Côte Saint Jacques & Spa",
+       "url":"https://www.relaischateaux.com/fr/france/la-cote-saint-jacques-yonne-joigny",
+       "price":"224,00",
+       "city":"Joigny",
+       "citation":"“Escapade romantique et gourmande sur les rives de l’Yonne”",
+       "desc":"La Côte Saint Jacques est une destination fascinante au coeur de la Bourgogne. Les agréables chambres ont, pour la plupart, de belles terrasses et le jacuzzi offre une vue panoramique sur les bords de l’Yonne. Avec des activités à satiété, entre cours de cuisine, flânerie le long du canal, piscine intérieure, spa et programmes spécialement conçus pour les enfants, vous n’aurez aucun mal à vous occuper. Le Chef propriétaire Jean-Michel Lorain, passionné, talentueux et volubile, vous accueillera au restaurant en ami, et pour peu que vous ayez de la chance, il vous glissera peut-être les secrets de ses recettes. La carte s’inscrit à la fois dans l’histoire de la maison et dans une modernité et une créativité qui respecte la magie des produits qu’apportent chaque jour les maraîchers, éleveurs, pécheurs et autres artisans de talent.",
+       "rest":[  
+          {  
+             "name":"La côte saint-jacques",
+             "michelinurl":"https://restaurant.michelin.fr/2c2ma30/la-cote-saint-jacques-joigny",
+             "star":2
+          },
+          {  
+             "name":"Bien Etre & Saveurs",
+             "michelinurl":null,
+             "star":null
+          }
+       ]
+    },
+    {  
+       "name":"Le Chambard",
+       "url":"https://www.relaischateaux.com/fr/france/le-chambard-haut-rhin-kaysersberg",
+       "price":"182,00",
+       "city":"Kaysersberg",
+       "citation":"“Nous sommes unis autour de ce projet de vie”",
+       "desc":"Entre vignoble alsacien et ballons des Vosges, Le Chambard est avant tout une histoire de famille, celle des Nasti. Depuis 2000, Olivier et Patricia, un couple uni par le goût de recevoir et de partager perpétuent la riche histoire hôtelière d’une demeure XVIIIe dans le village de Kaysersberg. Olivier Nasti dirige les cuisines de La Table d'Olivier Nasti, son épouse, Patricia accueille les clients au restaurant où cuivre et tissus soyeux composent une atmosphère baroque. Lignes pures et contemporaines pour les chambres et le spa de l’hôtel ; Olivier et Patricia ont apporté à cette maison son supplément d’âme et réservent aux hôtes un accueil des plus chaleureux.",
+       "rest":[  
+          {  
+             "name":"La Table d'Olivier Nasti",
+             "michelinurl":"https://restaurant.michelin.fr/2c30770n/la-table-dolivier-nasti-kaysersberg-vignoble",
+             "star":2
+          },
+          {  
+             "name":"La Winstub",
+             "michelinurl":"https://restaurant.michelin.fr/2c30770/la-winstub-du-chambard-kaysersberg-vignoble",
+             "star":0
+          }
+       ]
+    },
+    {  
+       "name":"Le Couvent des Minimes Hôtel & Spa L'Occitane",
+       "url":"https://www.relaischateaux.com/fr/france/minimes-alpes-de-haute-provence-mane",
+       "price":"224,00",
+       "city":"Mane",
+       "citation":"“Au coeur d’un jardin aromatique, la Provence à l'état pur”",
+       "desc":"Lové à flanc de colline, adossé au village pittoresque de Mane et baigné par le soleil provençal, Le Couvent des Minimes a d’abord accueilli des religieuses avant de devenir un hôtel de qualité. Protégé du Mistral par le sculptural rocher de Volx, cet édifice, datant de 1613, est un savant mélange d’architecture médiévale et de design contemporain. Vous serez séduit par les façades d’époque, les jardins centenaires en terrasses et le chemin de croix qui surplombe les environs. Les chambres, décorées avec soin, laissent pénétrer une douceur toute méditerranéenne. Le Couvent des Minimes Hôtel & Spa est un haut lieu de plénitude, promesse d’une « remise en sensations ».",
+       "rest":[  
+          {  
+             "name":"Le Cloître",
+             "michelinurl":"https://restaurant.michelin.fr/2ep5ghq/le-cloitre-mane",
+             "star":1
+          },
+          {  
+             "name":"Pesquier",
+             "michelinurl":"https://restaurant.michelin.fr/2ep5ghq173/le-pesquier-mane",
+             "star":0
+          }
+       ]
+    },
+    {  
+       "name":"Le Petit Nice-Passedat",
+       "url":"https://www.relaischateaux.com/fr/france/passedat-bouches-du-rhone-marseille",
+       "price":"220,00",
+       "city":"Marseille",
+       "citation":"“Ma cuisine est une plongée dans la Méditerranée”",
+       "desc":"Aimer Marseille, c’est aimer la Méditerranée, aussi indissociable de la ville que l’est la cuisine de Gérald Passedat, triplement étoilée. Viennent d’abord anémones de mer, pélamides, oursins et coquillages. Puis, au coeur de sa cuisine, les poissons. Tout au long de l’année, plus de 65 variétés parfois oubliées – la galinette, le chapon, le pagre, le sarran, le denti – sont pêchées ici, dans le respect des ressources marines. Plat fétiche, la Bouille Abaisse, légère, iodée, zéphyrienne, mais aussi le fameux loup Lucie Passedat. Quant à la vue sur la Grande Bleue, elle est omniprésente, de la terrasse comme du restaurant, et jusque dans votre chambre, spacieuse et ouverte sur l’horizon.",
+       "rest":[  
+          {  
+             "name":"Le Petit Nice",
+             "michelinurl":"https://restaurant.michelin.fr/2c76rmd/le-petit-nice-marseille-07",
+             "star":3
+          },
+          {  
+             "name":"Le 1917",
+             "michelinurl":"https://restaurant.michelin.fr/s5yf4cu/le-1917-marseille-07",
+             "star":0
+          }
+       ]
+    },
+    {  
+       "name":"Moulin de l’Abbaye",
+       "url":"https://www.relaischateaux.com/fr/france/moulin-dordogne-brantome-en-perigord",
+       "price":"145,00",
+       "city":"Brantôme-en-Périgord",
+       "citation":"“Le romantisme et la magie d’un lieu”",
+       "desc":"À Brantôme, la Venise du Périgord, ce moulin tapissé de lierre offre l’un des plus beaux sites de Dordogne. La vue embrasse le pont coudé, chef-d’oeuvre du xvie siècle, le jardin des moines, la tour médiévale, le pavillon Renaissance et la célèbre abbaye fondée par Charlemagne. Chambres et salons sont élégants et cosy, et la lumineuse salle de restaurant se prolonge par une terrasse au bord de la rivière. Le chef crée une cuisine enjouée et inspirée, avec clins d’oeil aux produits locaux. Au moulin lui-même, à la maison du meunier et à la maison où vécut le fameux abbé de Brantôme Pierre de Bourdeille, tout est réuni pour apprécier le romantisme et la magie du lieu.",
+       "rest":[  
+          {  
+             "name":"Moulin de l'Abbaye",
+             "michelinurl":"https://restaurant.michelin.fr/2bk4rlv/le-moulin-de-labbaye-brantome-en-perigord",
+             "star":1
+          },
+          {  
+             "name":"Autres restaurants",
+             "michelinurl":null,
+             "star":null
+          }
+       ]
+    }
+ ]
